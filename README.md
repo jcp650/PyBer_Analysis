@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this analysis is to examine disparities in ride-sharing based on city types. Specifically, the ride-share availability and price in urban, rural, and suburban cities were examined with the goal of identifying trends and patterns in the distribution of ride-sharing capabilities. The results from this analysis can provide actionable insights for decision makers to enhance ride-share access and fare equality across regions and types. 
+The purpose of this analysis is to examine disparities in ride-sharing based on city types. Specifically, the ride-share availability and price in urban, rural, and suburban cities were examined with the goal of identifying trends and patterns in the distribution of ride-sharing access. The results from this analysis can provide actionable insights for decision makers to enhance ride-share access and fare equality across regions and types. 
 
 ## Results
 
@@ -26,4 +26,4 @@ Three key findings from this research that could potentially decrease ride-share
 
 2.  Because urban cities have the lowest average fare per ride, ride-share companies could increase the fares to pay drivers more money and reduce the discrepancy in average fare per ride. 
 
-3. During seasonal lows like the beginning of March and mid April (as shown in Figure 1), ride-share companies could give riders coupons to increase the amount of rides. This would help drivers who rely on this income to whether changes in ride-share demand. 
+3. During seasonal lows like the beginning of March and mid April (as shown in Figure 1), ride-share companies could give riders coupons to increase the amount of rides. This would help drivers who rely on this income to weather changes in ride-share demand. 
